@@ -1,3 +1,3 @@
 vTPuJ56awA
 iw82MbCbwb
-# credentials trial CGhost
+# this is credentials for 24h trial CyberGhost
