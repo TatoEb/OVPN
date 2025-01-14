@@ -1,3 +1,3 @@
-amwv2iEw8M
-gQLwA9ybkN
-# These are credentials for 24h trial CyberGhost VPN [13-01-2025]
+bJzub7kL5b
+vBdJwfqKnw
+# These are credentials for 24h trial CyberGhost VPN [14-01-2025]
