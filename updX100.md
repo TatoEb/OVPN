@@ -1,3 +1,3 @@
 EeFGxLvcMg
 mAHJu9fJ3q
-# These are credentials for a 24h trial CyberGhost VPN [valid until 05-02-2025, 12:00]
+# These are credentials for a 24h trial CyberGhost VPN [they're valid until 05-02-2025, 12:00]
