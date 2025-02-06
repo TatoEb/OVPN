@@ -1,3 +1,3 @@
-Ec7YdEA8tK
-7YSDdmr4gw
-# These are credentials for a 24h-trial-account of CyberGhost VPN [until 06/02/2025, 13:30]
+H29FjTqdFf
+RV7QnE9JNW
+# These are credentials for a 24h-trial-account of CyberGhost VPN [until 07/02/2025, 12:00]
