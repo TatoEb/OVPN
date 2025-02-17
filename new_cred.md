@@ -1,3 +1,3 @@
 JiJRHcBBVN
 p7eB495Lvg
-# These are credentials for a 24h-trial-account of CyberGhost VPN [valid until 17/02/2025, 18:20]
+# These credentials for a 24h-trial-account of CyberGhost VPN are valid until 17/02/2025 [UTC+2, 18:20]
